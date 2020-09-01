@@ -18,7 +18,7 @@ function numequal()
 function operation()
 {
     document.getElementById("screen").value+=val;
-}
+} 
 
 
 
